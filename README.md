@@ -4,6 +4,12 @@ A SQL and Excel project analyzing Amazon's top 50 bestselling books for each yea
 ## Some Notes on the Data
 When initially examining the data, it was noted that four entries were duplicates, with the only difference being the price. Given the amount of data present it was decided that these entries would be deleted. Therefore, there are 546 entries in the dataset instead of the expected 550. Also, the prices listed are from 10/13/2020.
 
+## Questions
+Did popular books become more expensive over time?
+How did interest in writing reviews change over time?
+Do books or authors get popular and remain popular?
+What kind of books sell the best?
+
 ## Findings
 First the top 5 books of each year was determined by taking the books with the highest User Rating. The ties were broken by then ordering books by highest number of reviews since more reviews would allow for a more solid rating. The table below demonstrates the top book per year.
 <img width="1062" height="255" alt="Top Books" src="https://github.com/user-attachments/assets/d0a9d663-5705-4c0f-b916-af3e64d66f69" />
