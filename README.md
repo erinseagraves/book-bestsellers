@@ -18,7 +18,7 @@ Next the average number of reviews per year was found so it could be determined 
 There was a steady increase from 2009 to 2012. This then stayed roughly the same until increasing again from 2017 to 2019.
 
 The average price of books in the top 50 was also examined. While prices had a few jumps from year to year, the overall trend of the 11 years of data show that books became cheaper over time. Examining the economy over the years could help provide explanations for this. Also, a number of books were listed as being free, so it is also important to note that through Amazon's Kindle services, sometimes books are offered for free for certain periods of time.
-<img width="2117" height="1397" alt="price" src="https://github.com/user-attachments/assets/d3a99624-0a31-4b78-af58-06d975e7a39f" />
+<img width="2131" height="1397" alt="price" src="https://github.com/user-attachments/assets/c73a6dd0-0df9-4fa7-8c47-7ec843176078" />
 
 The last metric was the Genre category, where books were listed as either Fiction or Non Fiction. While these could have been classified further, it wasn't done here. For each year aside from 2014, there were more non fiction titles in the top 50 than fiction. 
 <img width="2552" height="1530" alt="genre" src="https://github.com/user-attachments/assets/82c295c8-daa1-451d-a82b-b1b71fe0bc3c" />
