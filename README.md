@@ -2,7 +2,7 @@
 A SQL and Excel project analyzing Amazon's top 50 bestselling books for each year from 2009 to 2019 with data was obtained from Kaggle.
 
 ## Some Notes on the Data
-When initially examining the data, it was noted that four entries were duplicates, with the only difference being the price. Given the amount of data present it was decided that these entries would be deleted. Therefore, there are 446 entries in the dataset instead of the expected 550. Also, the prices listed are from 10/13/2020.
+When initially examining the data, it was noted that four entries were duplicates, with the only difference being the price. Given the amount of data present it was decided that these entries would be deleted. Therefore, there are 546 entries in the dataset instead of the expected 550. Also, the prices listed are from 10/13/2020.
 
 ## Findings
 First the top 5 books of each year was determined by taking the books with the highest User Rating. The ties were broken by then ordering books by highest number of reviews since more reviews would allow for a more solid rating. The table below demonstrates the top book per year.
@@ -17,7 +17,7 @@ Next the average number of reviews per year was found so it could be determined 
 <img width="2745" height="1003" alt="reviews" src="https://github.com/user-attachments/assets/4abd23ca-435e-435c-a5ad-6fa36c52a99b" />
 There was a steady increase from 2009 to 2012. This then stayed roughly the same until increasing again from 2017 to 2019.
 
-The average price of books in the top 50 was also examined. While prices had a few jumps from year to year, the overall trend of the 10 years of data show that books became cheaper over time. Examining the economy over the years could help provide explanations for this. Also, a number of books were listed as being free, so it is also important to note that through Amazon's Kindle services, sometimes books are offered for free for certain periods of time.
+The average price of books in the top 50 was also examined. While prices had a few jumps from year to year, the overall trend of the 11 years of data show that books became cheaper over time. Examining the economy over the years could help provide explanations for this. Also, a number of books were listed as being free, so it is also important to note that through Amazon's Kindle services, sometimes books are offered for free for certain periods of time.
 <img width="2117" height="1397" alt="price" src="https://github.com/user-attachments/assets/d3a99624-0a31-4b78-af58-06d975e7a39f" />
 
 The last metric was the Genre category, where books were listed as either Fiction or Non Fiction. While these could have been classified further, it wasn't done here. For each year aside from 2014, there were more non fiction titles in the top 50 than fiction. 
